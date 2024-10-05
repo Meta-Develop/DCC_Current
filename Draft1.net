@@ -1,0 +1,7 @@
+* D:\downloads\7.ECAD\daikou\hamusai_DCC\Draft1.asc
+R1 N001 N002 1Meg
+R2 N002 N003 1
+V1 N001 N003 SINE(0 100 1Meg)
+.tran 0.1
+.backanno
+.end
